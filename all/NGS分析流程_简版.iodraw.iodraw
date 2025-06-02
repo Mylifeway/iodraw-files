@@ -58,11 +58,6 @@
             <mxPoint x="482.5" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hGvVCS1w3drUW2jXp0LG-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBackgroundColor=none;endArrow=block;endFill=0;endSize=8;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hGvVCS1w3drUW2jXp0LG-59" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hGvVCS1w3drUW2jXp0LG-59" value="SNV/INDel" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="562.5" y="510" width="110" height="40" as="geometry" />
         </mxCell>
@@ -83,7 +78,7 @@
         <mxCell id="hGvVCS1w3drUW2jXp0LG-110" value="Final Result" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="562.5" y="748" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hGvVCS1w3drUW2jXp0LG-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBackgroundColor=none;endArrow=block;endFill=0;endSize=8;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hGvVCS1w3drUW2jXp0LG-79" target="hGvVCS1w3drUW2jXp0LG-110" edge="1">
+        <mxCell id="hGvVCS1w3drUW2jXp0LG-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBackgroundColor=none;endArrow=block;endFill=0;endSize=8;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hGvVCS1w3drUW2jXp0LG-79" target="hGvVCS1w3drUW2jXp0LG-110" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="348.5" y="827" as="targetPoint" />
           </mxGeometry>
