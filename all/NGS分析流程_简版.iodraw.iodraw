@@ -88,11 +88,6 @@
             <mxPoint x="348.5" y="867" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hGvVCS1w3drUW2jXp0LG-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBackgroundColor=none;endArrow=block;endFill=0;endSize=8;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hGvVCS1w3drUW2jXp0LG-110" target="hGvVCS1w3drUW2jXp0LG-102" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="752.5" y="957" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hGvVCS1w3drUW2jXp0LG-110" value="Final Result" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="562.5" y="937" width="110" height="40" as="geometry" />
         </mxCell>
@@ -100,12 +95,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="617.5" y="867" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="2WpeDx4IRL3y8wl728JH-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hGvVCS1w3drUW2jXp0LG-102" target="2WpeDx4IRL3y8wl728JH-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hGvVCS1w3drUW2jXp0LG-102" value="ClinicalAI" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="772" y="937" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hGvVCS1w3drUW2jXp0LG-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;labelBackgroundColor=none;endArrow=block;endFill=0;endSize=8;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hGvVCS1w3drUW2jXp0LG-79" edge="1">
           <mxGeometry relative="1" as="geometry">
